@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HIREN
-- 👀 I’m interested in WEBDEVLOPING
+- 👀 I’m interested in Fullstack
 - 🌱 I’m currently learning REACT, NODE JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lodharih1943@ gmail.com
