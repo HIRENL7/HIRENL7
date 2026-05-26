@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HIREN
-- 👀 I’m interested in Fullstack
-- 🌱 I’m currently Working as a REACT JS , Next JS developer at vRajan Infotech
+- 👀 I’m interested in Fullstack AI Engineer.
+- 🌱 I’m currently Working as a REACT JS , Next JS,AI developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lodharih1943@ gmail.com
 
